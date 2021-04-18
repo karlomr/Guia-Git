@@ -1,4 +1,8 @@
 # Guia-Git
-<h1 align="center">
-  <img src ="https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf"/>
-</h1>
+<p>
+  <h1 align="center">
+    <a href="https://jan-krueger.net/git-cheat-sheet-take-two"
+      <img src ="https://imgur.com/a/6zQOQMK" alt= Git Cheat Sheet Thumbnail/>
+    </a>
+  </h1>
+<p>
