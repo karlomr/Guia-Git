@@ -1,7 +1,7 @@
 # Guia-Git
   <h1 align="center">
     <a href="https://jan-krueger.net/git-cheat-sheet-take-two">
-      <img src="https://imgur.com/a/6zQOQMK" alt= "Git Cheat Sheet Thumbnail">
+      ![Imgur](https://i.imgur.com/0laTYKg.png)
   </h1>
   
  ## Créditos do Mapa
